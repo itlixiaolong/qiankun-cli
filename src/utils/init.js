@@ -30,7 +30,7 @@ module.exports = async (projectName) => {
         // 获取答案
         const version = answers.version;
         const projectName = answers.projectName;
-        const repository = answers.repository||'itlixiaolong/config_template';
+        const repository = answers.repository||'itlixiaolong/qiankun_config_template';
         const author=answers.author
         const lang=judgelang(answers.lang)
         console.log('lang',lang);
