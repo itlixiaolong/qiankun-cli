@@ -1,11 +1,16 @@
 {
-  "name": "long-cli",
+  "name": "qiankun-cli",
   "version": "1.0.0",
-  "description": "a cli for qiankun",
-  "main": "index.js",
+  "description": "a cli for qiankun app",
+  "main": "main.js",
+  "author": "itlixiaolong",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itlixiaolong/qiankun-cli.git"
+  },
   "bin": {
-    "long-cli": "./bin/www"
+    "qiankun": "./bin/www"
   },
   "scripts": {
     "lint": "eslint src --fix"

@@ -8,7 +8,7 @@ const actionsMap = {
         alias: 'i',
         description: 'init a project',
         examples: [
-            'long-cli init', 
+            'qiankun init', 
         ]
     },
     notFound: {
