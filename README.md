@@ -12,3 +12,5 @@ npm i -g qiankun-cli
 # usage
 qiankun init
 
+# 如果对您有帮助，欢迎star
+
